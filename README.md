@@ -1,4 +1,4 @@
-#Discount Calculator
+# Discount Calculator
 
 price = 74.5
 discount = 20.0
